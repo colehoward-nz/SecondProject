@@ -1,0 +1,7 @@
+D:\VisualStudio\ProjectList\SecondProject\SecondProject\bin\Debug\SecondProject.exe.config
+D:\VisualStudio\ProjectList\SecondProject\SecondProject\bin\Debug\SecondProject.exe
+D:\VisualStudio\ProjectList\SecondProject\SecondProject\bin\Debug\SecondProject.pdb
+D:\VisualStudio\ProjectList\SecondProject\SecondProject\obj\Debug\SecondProject.csprojAssemblyReference.cache
+D:\VisualStudio\ProjectList\SecondProject\SecondProject\obj\Debug\SecondProject.csproj.CoreCompileInputs.cache
+D:\VisualStudio\ProjectList\SecondProject\SecondProject\obj\Debug\SecondProject.exe
+D:\VisualStudio\ProjectList\SecondProject\SecondProject\obj\Debug\SecondProject.pdb
